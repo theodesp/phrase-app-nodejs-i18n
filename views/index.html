@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{currentLocale}}">
+<head>
+    <title>Node i18n</title>
+<body>
+{{hello}} {{name}}<br>
+{{message}}
+<div>
+    {{#i18n}}This is a translation helper{{/i18n}}<br>
+    {{#i18np}}You have %s message,{{messageCount}}{{/i18np}}
+</div>
+</body>
+</html>

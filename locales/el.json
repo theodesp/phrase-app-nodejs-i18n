@@ -1,0 +1,10 @@
+{
+	"Hello": "Για Σας",
+	"How are you?": "Πώς είστε?",
+	"You have %s message": {
+		"one": "'Έχεις %s μύνημα",
+		"other": "'Έχεις %s μύνηματα"
+	},
+	"This is a translation helper": "Αυτός είναι βοηθός μετάφρασης",
+	"This is a translation helper,": "This is a translation helper,"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "phrase-app-nodejs-i18n",
+  "version": "1.0.0",
+  "description": "Instruction on how to setup proper i18n for your Node.js App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "i18n",
+    "l10n",
+    "node.js"
+  ],
+  "author": "Theo Despoudis",
+  "license": "ISC",
+  "dependencies": {
+    "awilix": "^3.0.5",
+    "consolidate": "^0.15.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "i18n": "^0.8.3",
+    "url": "^0.11.0"
+  }
+}
